@@ -198,7 +198,7 @@ I’m particularly interested in building systems that go beyond individual mode
 
 <a href="https://github.com/Asimsayam"> <img src="https://img.shields.io/badge/GitHub-AsimSayyam-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
-<a href="https://www.linkedin.com/in/asim-sayam-658591342/"> <img src="https://img.shields.io/badge/LinkedIn-Asim_Sayyam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/asim-sayyam-658591342/"> <img src="https://img.shields.io/badge/LinkedIn-Asim_Sayyam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 </p>
 
