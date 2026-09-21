@@ -26,7 +26,7 @@ I’m currently going deeper into **Deep Learning and Neural Networks**, with th
 ### Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,html,css," />
 </p>
 
 ### AI / Machine Learning
