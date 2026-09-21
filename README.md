@@ -182,3 +182,28 @@ I’m particularly interested in building systems that go beyond individual mode
 * [ ] Build a strong AI engineering portfolio
 
 ---
+📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Asimsayam&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=Asimsayam&theme=github-dark-blue&hide_border=true" width="49%" />
+
+</p>
+
+🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Asimsayam"> <img src="https://img.shields.io/badge/GitHub-AsimSayyam-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/asim-sayam-658591342/"> <img src="https://img.shields.io/badge/LinkedIn-Asim_Sayyam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+</p>
+
+<p align="center">
+
+⚡ Building Intelligent Systems • Learning Deeply • Engineering for the Real World
+
+</p>
